@@ -32,6 +32,9 @@
                                     <fontDescription key="titleFontDescription" name="Helvetica" family="Helvetica" pointSize="45"/>
                                     <color key="baseForegroundColor" red="0.38823529411764707" green="0.38039215686274508" blue="0.38039215686274508" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </buttonConfiguration>
+                                <connections>
+                                    <action selector="changeQuote:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mlV-YI-X8t"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
